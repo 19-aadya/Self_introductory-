@@ -22,4 +22,4 @@ This video is intended for:
 This video reflects my personality, technical interests, and aspirations as a growing software professional.
 
 ## 🎬 Watch the Video
-You can check out my 1-minute self-introduction video in [Releases section](https://github.com/user-attachments/assets/9035dcd2-7293-417c-be8c-33a42118c163)of this repository.
+You can check out my 1-minute self-introduction video in [here](https://github.com/user-attachments/assets/9035dcd2-7293-417c-be8c-33a42118c163).
